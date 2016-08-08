@@ -1,0 +1,11 @@
+{
+  "name" : "Upgraded Matter Manipulator",
+  "version" : "Release v1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Hybernairy",
+    "version" : "0.1a",
+    "description" : "An attempt to create a larger matter manipulator through the use of the in-game upgrade system."
+  }
+}
