@@ -1,11 +1,11 @@
 {
-  "name" : "Upgraded Matter Manipulator",
+  "name" : "Master MAnipulator",
   "version" : "Release v1.0",
   "path" : ".",
   "dependencies" : [],
   "metadata" : {
     "author" : "Hybernairy",
     "version" : "0.1a",
-    "description" : "An attempt to create a larger matter manipulator through the use of the in-game upgrade system."
+    "description" : "Obtain the Relic, the final key to the portal, as a usable Matter Manipulator!"
   }
 }
