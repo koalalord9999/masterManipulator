@@ -1,2 +1,2 @@
-# matterUpgrade
-An attempt to make the matter manipulator larger by the end of this, by using the in-game upgrade system
+# Master Manipulator
+The legendary artifact of the humans. Now available to all aspiring space cadets!
