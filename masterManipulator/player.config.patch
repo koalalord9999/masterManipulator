@@ -1,7 +1,3 @@
 [
-{
-  "op": "add",
-  "path": "/defaultBlueprints/tier1/-",
-  "value": { "item" : "masterManipulator" }
-}
+{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "masterManipulator" }}
 ]

@@ -5,5 +5,5 @@
     { "item" : "wire", "count" : 3 }
   ],
   "output" : { "item" : "mastermanipulator", "count" : 1 },
-  "groups" : [ "all", "tools" ]
+  "groups" : [ "craftinganvil2", "weapon", "all" ]
 }
