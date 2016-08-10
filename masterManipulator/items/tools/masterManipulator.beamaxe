@@ -6,7 +6,7 @@
   "maxStack" : 1,
   "description" : "The one from the story, but now... In your hands. Use it wisely!",
   "shortdescription" : "^#b84cbc;Master Manipulator^white;",
-  "largeImage" : "masterMAnipulatorLarge.png",
+  "largeImage" : "mastermanipulatorlarge.png",
   "tooltipKind" : "mm",
   "category" : "Tool",
   "fireTime" : 0.25,
@@ -18,7 +18,7 @@
   "twoHanded" : true,
   "strikeSounds" : [ "/sfx/tools/atom.ogg", "/sfx/tools/atom2.ogg", "/sfx/tools/atom3.ogg", "/sfx/tools/atom4.ogg", "/sfx/tools/atom5.ogg" ],
 
-  "image" : "/items/tools/miningtools/mastermanipulator.png",
+  "image" : "/items/tools/mastermanipulatorlarge.png",
   "endImages" : [ "/humanoid/any/ball.png", "/humanoid/any/tileglow.png", "/humanoid/any/4tileglow.png", "/humanoid/any/ball.png" ],
   "handPosition" : [-2, 0],
   "firePosition" : [5, 0],
