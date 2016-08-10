@@ -4,6 +4,6 @@
     { "item" : "siliconboard", "count" : 1 },
     { "item" : "wire", "count" : 3 }
   ],
-  "output" : { "item" : "MUT1", "count" : 1 },
+  "output" : { "item" : "mastermanipulator", "count" : 1 },
   "groups" : [ "all", "tools" ]
 }
