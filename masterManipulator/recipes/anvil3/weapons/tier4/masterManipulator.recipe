@@ -1,7 +1,15 @@
 {
   "input" : [
-    { "item" : "durasteelbar", "count" : 600 },
-    { "item" : "copperbar", "count" : 400 }
+    { "item" : "solariumstar", "count" : 120 },
+    { "item" : "refinedaegisalt", "count" : 160 },
+    { "item" : "refinedviolium", "count" : 160 },
+    { "item" : "refinedferozium", "count" : 160 },
+    { "item" : "corefragmentore", "count" : 300 },
+    { "item" : "tungstenbar", "count" : 400 },
+    { "item" : "upgrademodule", "count" : 12 },
+    { "item" : "manipulatormodule", "count" : 96 },
+    { "item" : "trophygold", "count" : 1 }
+
   ],
   "output" : { "item" : "mastermanipulator", "count" : 1 },
   "groups" : [ "craftinganvil3", "weapons", "all" ]
