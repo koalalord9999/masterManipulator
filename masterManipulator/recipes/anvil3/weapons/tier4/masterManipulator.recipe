@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 600 },
+    { "item" : "copperbar", "count" : 400 }
+  ],
+  "output" : { "item" : "mastermanipulator", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}
